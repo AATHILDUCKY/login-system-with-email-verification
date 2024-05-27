@@ -60,7 +60,8 @@ Follow these steps to get the project up and running on your local machine.
 2. **Verify Email**: Check your inbox for the verification email and click the link.
 3. **Login**: After verification, log in using your credentials.
 
-Presenting in this project
+
+###Contributing in this project
 
 EUSL/TC/IS/2019/COM/05
 
