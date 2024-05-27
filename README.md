@@ -63,9 +63,15 @@ Follow these steps to get the project up and running on your local machine.
 Presenting in this project
 
 EUSL/TC/IS/2019/COM/05
+
 EUSL/TC/IS/2019/COM/26
+
 EUSL/TC/IS/2019/COM/36
+
 EUSL/TC/IS/2019/COM/41
+
 EUSL/TC/IS/2019/COM/64
+
 EUSL/TC/IS/2019/COM/74
+
 EUSL/TC/IS/2019/COM/102
