@@ -61,7 +61,7 @@ Follow these steps to get the project up and running on your local machine.
 3. **Login**: After verification, log in using your credentials.
 
 
-###Contributing in this project
+### Contributing in this project
 
 EUSL/TC/IS/2019/COM/05
 
